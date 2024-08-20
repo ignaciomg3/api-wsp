@@ -1,0 +1,217 @@
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363144146339506@g.us',
+    fromMe: false,
+    id: '7499C12BE251D1B34C5D31277D735222',
+    participant: '5493513721408@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Juego',
+  from: '120363144146339506@g.us',
+  pushName: 'Kucho',
+  broadcast: false,
+  messageTimestamp: 1719423735,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 7e 54 0e 17 eb 6d 59 cd b3 0f 59 b5 c6 24 cf 1a 51 5f 93 7e 86 0d 88 01 5e 09 7a 28 6f 4f b7 62>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '*MIERCOLES 26/06 A LAS 22 HS VS LA PROVE EN LA GRAN 7*',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512345228@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03A6AE398C427C75FC8',
+    participant: undefined
+  },
+  messageTimestamp: 1719494424,
+  pushName: 'Alvaro',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'bien te paso en un rato usuario pass para q puedas subir todo a un servidor',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'bien te paso en un rato usuario pass para q puedas subir todo a un servidor',
+  name: 'Alvaro',
+  from: '5493512345228'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512153705@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE8EEC1C7ED4FA05E5A',
+    participant: undefined
+  },
+  messageTimestamp: 1719494431,
+  pushName: 'Vic',
+  broadcast: false,
+  message: Message {
+    conversation: 'buenos días miamor, éxitos hoy ☘️',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'buenos días miamor, éxitos hoy ☘️',
+  name: 'Vic',
+  from: '5493512153705'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512345228@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00C52B0AB95CCD136E2',
+    participant: undefined
+  },
+  messageTimestamp: 1719494436,
+  pushName: 'Alvaro',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'y te pago',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'y te pago',
+  name: 'Alvaro',
+  from: '5493512345228'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512153705@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC24BA4DBB939F0D815',
+    participant: undefined
+  },
+  messageTimestamp: 1719494438,
+  pushName: 'Vic',
+  broadcast: false,
+  message: Message {
+    conversation: 'después contame como te fuee',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'después contame como te fuee',
+  name: 'Vic',
+  from: '5493512153705'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512345228@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00F5EA3088B02978A35',
+    participant: undefined
+  },
+  messageTimestamp: 1719494542,
+  pushName: 'Alvaro',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'sisis por eso jaja',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'sisis por eso jaja',
+  name: 'Alvaro',
+  from: '5493512345228'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512345228@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB007DA487C607C6AEA72',
+    participant: undefined
+  },
+  messageTimestamp: 1719494562,
+  pushName: 'Alvaro',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'confio en tus habilidades de programador',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'confio en tus habilidades de programador',
+  name: 'Alvaro',
+  from: '5493512345228'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512345228@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0785AFF273FA0C914DF',
+    participant: undefined
+  },
+  messageTimestamp: 1719494645,
+  pushName: 'Alvaro',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'see eso se instala',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'see eso se instala',
+  name: 'Alvaro',
+  from: '5493512345228'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512153705@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB002E27424DB526CA5B7',
+    participant: undefined
+  },
+  messageTimestamp: 1719494734,
+  pushName: 'Vic',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  name: 'Vic',
+  from: '5493512153705'
+}
